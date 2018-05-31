@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "thread": "cpp",
+        "*.tcc": "cpp",
+        "rope": "cpp",
+        "ratio": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "unordered_map": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+}
